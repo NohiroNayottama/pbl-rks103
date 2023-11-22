@@ -1,1 +1,7 @@
-# pbl-rks103
+DIREKTORI:
+templates/
+└── index.html
+main.py
+requirements.txt
+start.sh
+
